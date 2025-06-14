@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+downloaded_threads/
+markdown_files/
+image.txt
+preprocess.py
+markdown.py
+scrap.py
+project-tds-virtual-ta-promptfoo.yaml
+project-tds-virtual-ta-q1.webp
